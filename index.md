@@ -1,3 +1,8 @@
+# Qusai Ghabrah's First CS193 Homework
+
+- I love how we aren't required to attend the PSOs. More free time for me :)
+- The TAs are really nice
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
